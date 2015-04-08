@@ -95,7 +95,7 @@ TEMPLATE_CONTEXT_PROCESSORS = TCP + (
 # see http://django-suit.readthedocs.org/en/develop/configuration.html
 SUIT_CONFIG = {
     # header
-    # 'ADMIN_NAME': 'Django Suit',
+    'ADMIN_NAME': 'Django Suit Testing Project',
     # 'HEADER_DATE_FORMAT': 'l, j. F Y',
     # 'HEADER_TIME_FORMAT': 'H:i',
 
